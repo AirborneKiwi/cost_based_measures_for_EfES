@@ -1,0 +1,3 @@
+[submodule "effective_energy_shift"]
+	path = effective_energy_shift
+	url = https://github.com/AirborneKiwi/effective_energy_shift.git
